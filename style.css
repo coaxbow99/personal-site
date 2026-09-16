@@ -1,0 +1,45 @@
+h1 {
+    font-size: 50px;
+}
+body {
+    background-image:url('Wallpaper.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    margin: 30px;
+    font-family: 'SegoeUI', Tahoma, Geneva, Verdana, sans-serif;
+}
+main {
+    display: flex;
+}    
+img {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    border: 3px solid #73aada;
+    box-shadow: 0px 4px 10px rgba(0,0,0,0.15);
+    display: block;
+    margin: 10px auto;
+}
+.Banner-box {
+    background-image: url('Banner.png');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    padding: 40px 35px;
+    margin-top: 20px;
+    min-height: 250px;
+    box-shadow: 0px 8px 20px rgba(0,0,0,0.2);
+    border-radius: 8px;
+}
+.Banner-img {
+    width: 100%;
+    height: auto;
+    border-radius: 4px;
+    display: block;
+    margin-bottom: 12px;
+}
+.Banner-text {
+    font-size: 14px;
+    color: #555555;
+    line-height: 1.5;
+}
