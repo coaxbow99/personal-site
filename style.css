@@ -1,5 +1,21 @@
 h1 {
     font-size: 50px;
+  font-family: "VT323", monospace;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h2 {
+    color: #ffffff;
+
+}
+
+main p {
+    color: #ffffff;
+}
+
+nav p {
+    color: #ffffff;
 }
 body {
     background-image:url('Wallpaper.png');
@@ -7,7 +23,8 @@ body {
     background-position: center;
     background-attachment: fixed;
     margin: 30px;
-    font-family: 'SegoeUI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: "VT323", monospace;
+
 }
 main {
     display: flex;
@@ -39,9 +56,12 @@ img {
     margin-bottom: 12px;
 }
 .Banner-text {
-    font-size: 14px;
-    color: #555555;
+    font-size: 22px;
+    color: #000000;
     line-height: 1.5;
+    font-family: "VT323", monospace;
+    font-weight: 400;
+     font-style: normal;
 }
 .notepad-dashboard {
   display: flex;
