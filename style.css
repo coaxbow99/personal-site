@@ -84,3 +84,34 @@ img {
   margin-bottom: 8px !important;
   border: 1px solid rgba(0, 0, 0, 0.1);
 }
+.rect-box {
+  background-image: url('about-container.png'); /
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  padding: 30px;
+  margin: 20px auto;
+  max-width: 600px;
+  box-sizing: border-box;
+}
+
+.project-container{
+  background-image: url('project-continer.png'); /
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  padding: 40px;
+  margin: 20px auto;
+  max-width: 400px; /
+  box-sizing: border-box;
+}
+#about p {
+    color: #ffffff; /
+}
+
+#projects p {
+    color: #ffffff; /
+}
+
+#about h2, #projects h2 {
+    font-size: 2.5rem; 
+    margin-bottom: 10px;
+}
