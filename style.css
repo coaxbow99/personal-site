@@ -6,16 +6,19 @@ h1 {
 }
 
 h2 {
-    color: #ffffff;
+    color: #f5f5f5;
+    text-shadow: 1px 1px 3px rgba(0,0,0,0.9);
 
 }
 
 main p {
-    color: #ffffff;
+    color: #f5f5f5;
+    text-shadow: 1px 1px 3px rgba(0,0,0,0.9);
 }
 
 nav p {
-    color: #ffffff;
+    color: #f5f5f5;
+    text-shadow: 1px 1px 3px #000000(0.0.0.0.9);
 }
 body {
     background-image:url('Wallpaper.png');
@@ -82,7 +85,7 @@ img {
   object-fit: cover !important;
   border-radius: 4px !important;
   margin-bottom: 8px !important;
-  border: 1px solid rgba(0, 0, 0, 0.1);
+  border: 1px solid #FFF61A(0, 0, 0, 0.1);
 }
 .rect-box {
   background-image: url('about-container.png'); 
@@ -104,11 +107,13 @@ img {
   box-sizing: border-box;
 }
 #about p {
-    color: #ffffff;
+    color: #f5f5f5;
+    text-shadow: 1px 1px 3px rgba(0,0,0,0.9);
 }
 
 #projects p {
-    color: #ffffff;
+    color: #f5f5f5;
+    text-shadow: 1px 1px 3px rgba(0,0,0,0.9);
 }
 
 #about h2, #projects h2 {
