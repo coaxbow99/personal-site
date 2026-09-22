@@ -16,8 +16,7 @@ A personal website built from scratch using custom HTML and CSS. The site featur
 ## 🤖 AI Usage Disclosure
 
 In compliance with Requirement #6:
-- **How AI was used:** AI was utilized purely as a helper assistant to debug responsive layout breaking points, improve CSS text-contrast parameters against busy backgrounds, and structure this project documentation. 
+- **How AI was used:** AI was utilized purely as a helper assistant to debug responsive layout breaking points, improve CSS text-contrast parameters against busy backgrounds, 
 - **What was hand-coded:** All core HTML structures, layout concepts, component assets, and thematic styling rules were written and designed independently from scratch
    git clone https://github.com
    ```
-2. Open `index.html` in any web browser to view locally, or visit the live deployment link above.
